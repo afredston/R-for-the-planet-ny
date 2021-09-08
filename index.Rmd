@@ -101,82 +101,14 @@ The R ecosystem (R + RStudio + GitHub + RMarkdown + ...) enables us to [do bette
 
 --
 
-### Specific examples from my Twitter community 
-
-```{r}
-include_tweet("https://twitter.com/MikeTreglia/status/1382415509724004355?s=20")
-```
-
----
-
-# Why R?
-
-Facilitates transparency and reproducibility
-
-The R ecosystem (R + RStudio + GitHub + RMarkdown + ...) enables us to [do better science in less time](https://www.nature.com/articles/s41559-017-0160)
-
-### Specific examples from my Twitter community 
-
-```{r}
-include_tweet("https://twitter.com/jebyrnes/status/1382377335387783174")
-```
-
----
-
-# Why R?
-
-Facilitates transparency and reproducibility
-
-The R ecosystem (R + RStudio + GitHub + RMarkdown + ...) enables us to [do better science in less time](https://www.nature.com/articles/s41559-017-0160)
-
-### Specific examples from my Twitter community 
-
-```{r}
-include_tweet("https://twitter.com/jebyrnes/status/1382377335387783174")
-```
-
----
-
-
-# Why R?
-
-Facilitates transparency and reproducibility
-
-The R ecosystem (R + RStudio + GitHub + RMarkdown + ...) enables us to [do better science in less time](https://www.nature.com/articles/s41559-017-0160)
-
-### Specific examples from my Twitter community 
-
-```{r}
-include_tweet("https://twitter.com/wormmaps/status/1382417628484997120?s=20")
-```
-
---
-
-```{r}
-include_tweet("https://twitter.com/mdsumner/status/1382561385003974657?s=20")
-```
-
-
----
-
-# Why R?
-
-Facilitates transparency and reproducibility
-
-The R ecosystem (R + RStudio + GitHub + RMarkdown + ...) enables us to [do better science in less time](https://www.nature.com/articles/s41559-017-0160)
-
-### Specific examples from my Twitter community 
-
-```{r}
-include_tweet("https://twitter.com/AdamClarkSmith/status/1382516148927918084")
-```
+*Plus:* Spatial data analysis, handling netcdf files, "soup to nuts" analytical workflows, ... 
 
 ---
 
 # Species on the move
 
 <video>
-<source src="black seabass.mp4" type="video/mp4">
+<source src="black seabass.mp4" type="video/mp4" height="100">
 </video>
 
 Source: [OceanAdapt](https://oceanadapt.rutgers.edu)
