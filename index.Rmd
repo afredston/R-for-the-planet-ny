@@ -108,7 +108,7 @@ The R ecosystem (R + RStudio + GitHub + RMarkdown + ...) enables us to [do bette
 # Species on the move
 
 <video>
-<source src="black seabass.mp4" type="video/mp4" height="150">
+<source src="black seabass.mp4" type="video/mp4" width="200" height="150">
 </video>
 
 Source: [OceanAdapt](https://oceanadapt.rutgers.edu)
@@ -163,7 +163,9 @@ Core model features
 
 ---
 
-![](bayesian_network.png)
+# Bayesian network
+
+![](bayesian_network_2.png)
 
 ---
 
