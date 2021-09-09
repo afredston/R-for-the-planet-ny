@@ -99,9 +99,6 @@ Facilitates transparency and reproducibility
 
 The R ecosystem (R + RStudio + GitHub + RMarkdown + ...) enables us to [do better science in less time](https://www.nature.com/articles/s41559-017-0160) (*email me for a PDF*)
 
---
-
-*Plus:* Spatial data analysis, handling netcdf files, "soup to nuts" analytical workflows, ... 
 
 ---
 
